@@ -10,8 +10,8 @@ pip install -r requirements.txt
 ## Using the model
 You just need to import the module and call the `predictFrench` function.
 ```python
-import predictSentiment
+import predictSentiment as ps
 
-print(predictFrench('Je suis content, il fait beau c\'est super ! '))
-print(predictFrench('Je suis triste, il fait pleut c\'est horrible ! '))
+print(ps.predictFrench('Je suis content, il fait beau c\'est super ! '))
+print(ps.predictFrench('Je suis triste, il fait pleut c\'est horrible ! '))
 ```
