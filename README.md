@@ -1,5 +1,5 @@
 # Python Sentiment Classification
-This repository contains a pre-trained SVM model for french sentiment classification. The model has been learned on more 10 000 tweets released in [DEFT 2015](https://deft.limsi.fr/2015/) and [DEFT 2017](https://deft.limsi.fr/2017/) chanllenges.
+This repository contains a pre-trained SVM model for french sentiment classification. The model has been learned on more 10000 tweets released in [DEFT 2015](https://deft.limsi.fr/2015/) and [DEFT 2017](https://deft.limsi.fr/2017/) chanllenges.
 
 ## Installing dependencies
 The code runs under python3.
