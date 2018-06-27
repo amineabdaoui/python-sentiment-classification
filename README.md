@@ -13,5 +13,5 @@ You just need to import the module and call the `predictFrench` function.
 import predictSentiment as ps
 
 print(ps.predictFrench('Je suis content, il fait beau c\'est super ! '))
-print(ps.predictFrench('Je suis triste, il fait pleut c\'est horrible ! '))
+print(ps.predictFrench('Je suis triste, il pleut c\'est horrible ! '))
 ```
